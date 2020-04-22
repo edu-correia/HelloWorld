@@ -1,2 +1,3 @@
-# HelloWorld
- Teste de repositório versionado
+# Hello World!
+
+Teste de repositório versionado baseado nas vídeo aulas do curso em vídeo.
